@@ -1,6 +1,7 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
-SWEP.Spawnable = false
-SWEP.Category = "JMod: Half-Life - ArcCW"
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_ar2.png"
+SWEP.Spawnable = true
 SWEP.AdminOnly = false
 SWEP.PrintName = "Pulse Rifle"
 SWEP.Slot = 2

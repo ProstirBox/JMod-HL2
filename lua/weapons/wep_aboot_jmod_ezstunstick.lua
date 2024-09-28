@@ -4,6 +4,9 @@ SWEP.Base = "wep_jack_gmod_ezmeleebase"
 SWEP.PrintName = "EZ Stun-Stick"
 SWEP.Author = "Jackarunda"
 SWEP.Purpose = ""
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_gmod_ezstunstick.png"
+SWEP.Spawnable = true
 --JMod.SetWepSelectIcon(SWEP, "entities/ent_jack_gmod_ezcrowbar")
 SWEP.ViewModel = "models/weapons/c_stunstick.mdl"--"models/weapons/crowbar/c_crowbar.mdl"
 SWEP.WorldModel = "models/weapons/w_stunbaton.mdl"

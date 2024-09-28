@@ -1,6 +1,7 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
-SWEP.Spawnable = false
-SWEP.Category = "ArcCW - Half-Life" -- edit this if you like
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_smg2.png"
+SWEP.Spawnable = true
 SWEP.AdminOnly = false
 SWEP.PrintName = "SMG2"
 SWEP.Slot = 2
@@ -10,8 +11,8 @@ SWEP.WorldModel = "models/weapons/aboot/smg2/w_smg1.mdl"
 SWEP.ViewModelFOV = 60
 SWEP.MirrorVMWM = true
 SWEP.WorldModelOffset = {
-    pos = Vector(10, 0.5, -4),
-    ang = Angle(-10, 1, 180)
+	pos = Vector(10, 0.5, -4),
+	ang = Angle(-10, 1, 180)
 }
 
 SWEP.DefaultBodygroups = "00000000000"

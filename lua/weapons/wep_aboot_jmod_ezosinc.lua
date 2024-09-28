@@ -4,7 +4,10 @@ SWEP.PrintName = "EZ OSINC"
 SWEP.Author = "Jackarunda, AdventureBoots"
 SWEP.Purpose = ""
 JMod.SetWepSelectIcon(SWEP, "entities/ent_aboot_gmod_ezosinc")
-SWEP.Spawnable = false
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_gmod_ezosinc.png"
+SWEP.Spawnable = true
+
 SWEP.UseHands = true
 SWEP.DrawAmmo = false
 SWEP.DrawCrosshair = false

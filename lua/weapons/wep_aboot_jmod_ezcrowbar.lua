@@ -2,6 +2,9 @@
 AddCSLuaFile()
 SWEP.Base = "wep_jack_gmod_ezmeleebase"
 SWEP.PrintName = "EZ Crowbar"
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_crowbar.png"
+SWEP.Spawnable = false
 SWEP.Author = "Jackarunda"
 SWEP.Purpose = ""
 --JMod.SetWepSelectIcon(SWEP, "entities/ent_jack_gmod_ezcrowbar")

@@ -1,6 +1,7 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
-SWEP.Spawnable = false
-SWEP.Category = "JMod: Half-Life - ArcCW"
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_usp.png"
+SWEP.Spawnable = true
 SWEP.AdminOnly = false
 SWEP.PrintName = "9mm Pistol"
 SWEP.Slot = 1
@@ -138,10 +139,10 @@ SWEP.AttachmentElements = {
 SWEP.ExtraSightDist = 10
 
 SWEP.Attachments = {
-	{
-		PrintName = "Perk",
-		Slot = "perk"
-	}
+    {
+        PrintName = "Perk",
+        Slot = "perk"
+    }
 }
 
 SWEP.Animations = {

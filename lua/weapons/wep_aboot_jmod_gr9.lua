@@ -1,6 +1,7 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_gr9.png"
 SWEP.Spawnable = false
-SWEP.Category = "JMod: Half-Life - ArcCW" -- edit this if you like
 SWEP.AdminOnly = false
 SWEP.PrintName = "GR9-LMG"
 SWEP.Slot = 4
@@ -13,8 +14,8 @@ SWEP.DefaultWMBodygroups = "01000000"
 SWEP.MirrorVMWM = false -- Copy the viewmodel, along with all its attachments, to the worldmodel. Super convenient!
 SWEP.MirrorWorldModel = true -- Use this to set the mirrored viewmodel to a different model, without any floating speedloaders or cartridges you may have. Needs MirrorVMWM
 SWEP.WorldModelOffset = {
-    pos = Vector(9, .8, -3.5),
-    ang = Angle(-10, 180, 180),
+	pos = Vector(9, .8, -3.5),
+	ang = Angle(-10, 180, 180),
 	scale = 0.9
 }
 ---

@@ -1,8 +1,8 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
-SWEP.Spawnable = false
-SWEP.Category = "ArcCW - Half-Life" -- edit this if you like
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_akm.png"
+SWEP.Spawnable = true
 SWEP.AdminOnly = false
-
 SWEP.PrintName = "AR1"
 
 SWEP.Slot = 2

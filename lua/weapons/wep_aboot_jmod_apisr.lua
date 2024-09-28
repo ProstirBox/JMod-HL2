@@ -1,6 +1,7 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_apisr.png"
 SWEP.Spawnable = false
-SWEP.Category = "ArcCW - Half-Life" -- edit this if you like
 SWEP.AdminOnly = false
 SWEP.PrintName = "API-SR"
 SWEP.Slot = 3
@@ -9,8 +10,8 @@ SWEP.WorldModel = "models/weapons/aboot/sniper/w_sniper.mdl"
 SWEP.ViewModelFOV = 75
 SWEP.MirrorVMWM = true
 SWEP.WorldModelOffset = {
-    pos = Vector(-2, 0, 1),
-    ang = Angle(180, 0, 0),--Angle(0, 184, 180)
+	pos = Vector(-2, 0, 1),
+	ang = Angle(180, 0, 0),--Angle(0, 184, 180)
 }
 SWEP.NoHideLeftHandInCustomization = true
 

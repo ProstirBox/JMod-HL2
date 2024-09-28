@@ -1,6 +1,7 @@
 SWEP.Base = "wep_jack_gmod_gunbase"
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_rpg.png"
 SWEP.Spawnable = false
-SWEP.Category = "JMod: Half-Life - ArcCW" -- edit this if you like
 SWEP.AdminOnly = false
 SWEP.PrintName = "RPG Launcher"
 SWEP.Slot = 4
@@ -90,11 +91,11 @@ SWEP.SightTime = 0.44
 SWEP.Force = 40
 
 SWEP.IronSightStruct = {
-    Pos = Vector(-3.19, -2, 1.2),
-    Ang = Angle(0.1, 0, 0),
-    Magnification = 1.2,
-    SwitchToSound = "", -- sound that plays when switching to this sight
-    CrosshairInSights = true
+	Pos = Vector(-3.19, -2, 1.2),
+	Ang = Angle(0.1, 0, 0),
+	Magnification = 1.2,
+	SwitchToSound = "", -- sound that plays when switching to this sight
+	CrosshairInSights = true
 }
 
 SWEP.HoldtypeHolstered = "passive"

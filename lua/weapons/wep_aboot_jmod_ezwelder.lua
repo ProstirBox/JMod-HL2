@@ -4,7 +4,10 @@ SWEP.PrintName = "EZ Welder"
 SWEP.Author = "AdventureBoots"
 SWEP.Purpose = ""
 JMod.SetWepSelectIcon(SWEP, "entities/ent_jack_gmod_eztoolbox")
+SWEP.Category = "JMod - EZ Weapons"
+SWEP.IconOverride = "entities/ent_aboot_jmod_ezweapon_welder.png"
 SWEP.Spawnable = false
+
 SWEP.UseHands = true
 SWEP.DrawAmmo = false
 SWEP.DrawCrosshair = false
